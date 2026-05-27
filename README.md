@@ -1,7 +1,7 @@
 # Lab8-Starter
 
 ## Lab Partner(s)
-- N/A
+- Alexis Navarrete
 
 ## GitHub Pages URL
 - https://hieule314.github.io/Lab8_Starter/
